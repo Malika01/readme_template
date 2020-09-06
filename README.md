@@ -6,7 +6,7 @@
 
 ### :octocat: **Table Of Contents**
 ---
-* [Overview](#closed-book-overview)
+* [Overview](#closed_book-overview)
 
 * [Features](#rainbow-features)
 
