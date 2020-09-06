@@ -12,19 +12,19 @@
 
 * [Getting Started](#zap-getting-started)
 
-* [Build][#hammer-build]
+* [Build](#hammer-build)
 
-* [Deploy][#wrench-deploy]
+* [Deploy](#wrench-deploy)
 
-* [Conclusion][#white-check-mark-conclusion]
+* [Conclusion](#white_check_mark-conclusion)
 
-* [Link to the live project][#pencil-live-project]
+* [Link to the live project](#pencil-live-project)
 
-* [Few references][#computer-references]
+* [Few references](#computer-references)
 
-* [Technology Stack][#rocket-technology-stack]
+* [Technology Stack](#rocket-technology-stack)
 
-* [License][#page-with-curl-license]
+* [License](#page_with_curl-license)
 
 
 ---
