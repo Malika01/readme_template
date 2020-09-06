@@ -18,20 +18,19 @@
 
 * [Conclusion][#white-check-mark-conclusion]
 
-* [Link to the live project][project_link]
+* [Link to the live project][#pencil-live-project]
 
-* [Few references][ref_link]
+* [Few references][#computer-references]
 
-* [Technology Stack][techstack_link]
+* [Technology Stack][#rocket-technology-stack]
 
-* [License][license_link]
+* [License][#page-with-curl-license]
 
-
----
-
-# :closed_book: **Overview**
 
 ---
+
+## :closed_book: Overview
+
 
 <p>An Overview:</p>
 
@@ -62,9 +61,8 @@ A list of features:
 
 ---
 
-# :zap: Getting Started
+## :zap: Getting Started
 
----
 
 Lets get started!
 ```console
@@ -103,23 +101,8 @@ $.facebox({div:'#foo'})
 
 ---
 
-# :hammer: **Build**
+## :hammer: Build
 
----
-
-- `npm start`
-
-- `npm run build`
-
-- `npm run serve`
-
-- `npm run deploy`
-
----
-
-# :wrench: **Deploy**
-
----
 
 - `npm start`
 
@@ -131,9 +114,21 @@ $.facebox({div:'#foo'})
 
 ---
 
-# :white_check_mark: **Conclusion**
+## :wrench: Deploy
+
+
+- `npm start`
+
+- `npm run build`
+
+- `npm run serve`
+
+- `npm run deploy`
 
 ---
+
+## :white_check_mark: Conclusion
+
 
 <p> lets (para1) </p>
 
@@ -141,17 +136,15 @@ $.facebox({div:'#foo'})
 
 ---
 
-### :pencil: **Live Project**
+## :pencil: Live Project
 
----
 
 [Link to the working project](www.google.com)
 
 ---
 
-### :computer: **References**
+## :computer: References
 
----
 
 - [www.geeksforgeeks.org](www.geeksforgeeks.org)
 
@@ -161,9 +154,8 @@ $.facebox({div:'#foo'})
 
 ---
 
-### :rocket: **Technology Stack**
+## :rocket: **Technology Stack**
 
----
 
 - JavaScript
 
@@ -175,8 +167,7 @@ $.facebox({div:'#foo'})
 
 ---
 
-###  :page_with_curl: **License**
+## :page_with_curl: **License**
 
----
 
 [Some license]("license link")
