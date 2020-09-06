@@ -6,17 +6,17 @@
 
 ### :octocat: **Table Of Contents**
 ---
-* [Overview](#overview)
+* [Overview](#closed-book-overview)
 
-* [Features](##features)
+* [Features](#rainbow-features)
 
-* [Getting Started](###getting-started)
+* [Getting Started](#zap-getting-started)
 
-* [Build][build_link]
+* [Build][#hammer-build]
 
-* [Deploy][deploy_link]
+* [Deploy][#wrench-deploy]
 
-* [Conclusion][conclude_link]
+* [Conclusion][#white-check-mark-conclusion]
 
 * [Link to the live project][project_link]
 
@@ -45,7 +45,7 @@
 
 ---
 
-# Features :rainbow:
+## :rainbow: Features 
 
 
 A list of features:
@@ -62,7 +62,7 @@ A list of features:
 
 ---
 
-# :zap: **Getting Started**
+# :zap: Getting Started
 
 ---
 
@@ -103,7 +103,7 @@ $.facebox({div:'#foo'})
 
 ---
 
-### :hammer: **Build**
+# :hammer: **Build**
 
 ---
 
@@ -117,7 +117,7 @@ $.facebox({div:'#foo'})
 
 ---
 
-### :wrench: **Deploy**
+# :wrench: **Deploy**
 
 ---
 
@@ -131,7 +131,7 @@ $.facebox({div:'#foo'})
 
 ---
 
-### :white_check_mark: **Conclusion**
+# :white_check_mark: **Conclusion**
 
 ---
 
