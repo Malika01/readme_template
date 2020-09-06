@@ -29,7 +29,7 @@
 
 ---
 
-### :closed_book: **Overview**
+# :closed_book: **Overview**
 
 ---
 
@@ -45,7 +45,7 @@
 
 ---
 
-### :rainbow: **Features**
+# Features
 
 ---
 
@@ -63,7 +63,7 @@ A list of features:
 
 ---
 
-### :zap: **Getting Started**
+# :zap: **Getting Started**
 
 ---
 
