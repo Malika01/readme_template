@@ -8,7 +8,7 @@
 ---
 * [Overview](#overview)
 
-* [Features](#features)
+* [Features](##features)
 
 * [Getting Started](###getting-started)
 
@@ -45,7 +45,7 @@
 
 ---
 
-# Features
+## Features
 
 ---
 
