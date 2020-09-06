@@ -6,11 +6,11 @@
 
 ### :octocat: **Table Of Contents**
 ---
-* [Overview][overview_link]
+* [Overview][#overview]
 
 * [Features][features_link]
 
-* [Getting Started][start_link]
+* [Getting Started][###getting-started]
 
 * [Build][build_link]
 
@@ -26,25 +26,6 @@
 
 * [License][license_link]
 
-[overview_link]: www.google.com
-
-[features_link]: www.google.com
-
-[start_link]: www.google.com
-
-[build_link]: www.google.com
-
-[deploy_link]: www.google.com
-
-[conclude_link]: www.google.com
-
-[project_link]: www.google.com
-
-[ref_link]: www.google.com
-
-[techstack_link]: www.google.com
-
-[license_link]: www.google.com
 
 ---
 
