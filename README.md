@@ -6,11 +6,11 @@
 
 ### :octocat: **Table Of Contents**
 ---
-* [Overview][#overview]
+* [Overview](#overview)
 
-* [Features][features_link]
+* [Features](#features)
 
-* [Getting Started][###getting-started]
+* [Getting Started](###getting-started)
 
 * [Build][build_link]
 
