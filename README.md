@@ -45,7 +45,7 @@
 
 ---
 
-# :rainbow: Features 
+# Features :rainbow:
 
 
 A list of features:
