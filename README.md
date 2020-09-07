@@ -39,5 +39,5 @@ return  True
 ---
 
 ## Authors
-
-<!-- Generate contributers list using this link - https://contributors-img.web.app/preview -->
+**Authors:** <!-- [author1's name](link to their github profile), [author2's name](link to their github profile) .. -->  
+**Contributors:** <!-- Generate contributers list using this link - https://contributors-img.web.app/preview -->
