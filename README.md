@@ -2,9 +2,12 @@
 
 [image]: https://www.uokpl.rs/fpng/d/604-6049435_knowage-on-twitter.png
 
-<p style="text-align: center;"> 
+# PROJECT TITLE
+
+<p align="center"> 
 One-two line description
 </p>
+
 ---
 
 The overview starts here. Random text about the project, motive, how, what, why etc.
@@ -37,4 +40,4 @@ return  True
 
 ## Authors
 
-<!-- Generate contributers list using this link -->
+<!-- Generate contributers list using this link - https://contributors-img.web.app/preview -->
