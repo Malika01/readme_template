@@ -4,65 +4,39 @@
 
 # PROJECT NAME
 
-### :octocat: **Table Of Contents**
 ---
-* [Overview](#closed_book-overview)
 
-* [Features](#rainbow-features)
+## Table Of Contents
 
-* [Getting Started](#zap-getting-started)
+* [Description](#description)
 
-* [Build](#hammer-build)
+* [How to run](#how-to-run)
 
-* [Deploy](#wrench-deploy)
+* [Authors](#authors)
 
-* [Conclusion](#white_check_mark-conclusion)
+* [Technology Stack](#technology-stack)
 
-* [Link to the live project](#pencil-live-project)
-
-* [Few references](#computer-references)
-
-* [Technology Stack](#rocket-technology-stack)
-
-* [License](#page_with_curl-license)
-
+* [License](#license)
 
 ---
 
-## :closed_book: Overview
+## Description
 
-
-<p>An Overview:</p>
-
-<p>random text qwydkn lnmkldnf klmc. this is the first para</p>
-
-<p>para second</p>
-
-<p>the third one</p>
-
-<p>and so on..</p>
+<p>One-two line description</p>
 
 ---
 
-## :rainbow: Features 
+<p>The overview starts here. Followed by instructions. random text qwydkn lnmkldnf klmc. this is the first para</p>
 
+> <p>para second</p>
 
-A list of features:
+>> <p>the third one</p>
 
-1. first
-
-2. second
-
-3. third
-
-4. fourth
-
-5. and so on..
+>>> <p>and so on..</p>
 
 ---
 
-## :zap: Getting Started
-
+## How To Run
 
 Lets get started!
 ```console
@@ -84,78 +58,14 @@ if  not bar:
 return  True
 
 ```
+---
 
-```javascript
+## Authors
 
-function  fancyAlert(arg) {
-
-if(arg) {
-
-$.facebox({div:'#foo'})
-
-}
-
-}
-
-```
 
 ---
 
-## :hammer: Build
-
-
-- `npm start`
-
-- `npm run build`
-
-- `npm run serve`
-
-- `npm run deploy`
-
----
-
-## :wrench: Deploy
-
-
-- `npm start`
-
-- `npm run build`
-
-- `npm run serve`
-
-- `npm run deploy`
-
----
-
-## :white_check_mark: Conclusion
-
-
-<p> lets (para1) </p>
-
-<p> conclude (para2) </p>
-
----
-
-## :pencil: Live Project
-
-
-[Link to the working project](www.google.com)
-
----
-
-## :computer: References
-
-
-- [www.geeksforgeeks.org](www.geeksforgeeks.org)
-
-- [www.w3schools.com](www.w3schools.com)
-
-- [www.google.com](www.google.com)
-
----
-
-## :rocket: **Technology Stack**
-
+## Technology Stack
 
 - JavaScript
 
@@ -167,7 +77,6 @@ $.facebox({div:'#foo'})
 
 ---
 
-## :page_with_curl: **License**
+## License
 
-
-[Some license]("license link")
+[Some license](license link)
