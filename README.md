@@ -2,7 +2,7 @@
 
 [image]: https://www.uokpl.rs/fpng/d/604-6049435_knowage-on-twitter.png
 
-<center># PROJECT TITLE</center>
+<h1 align="center"> PROJECT TITLE </h1>
 
 <p align="center"> 
 One-two line description
