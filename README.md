@@ -1,6 +1,15 @@
 ![heading_image][image]
 
 [image]: https://www.uokpl.rs/fpng/d/604-6049435_knowage-on-twitter.png
+<!-- forks/stars/tech stack in the form of badges from https://shields.io/ example -->
+<p align="center">
+<a href="https://www.python.org/">
+	<img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python" alt="Python"/>
+</a>
+<a href="https://github.com/Malika01/readme_template/stargazers/">
+	<img src="https://img.shields.io/github/stars/Malika01/readme_template"/>
+</a>
+</p>
 
 <h1 align="center"> PROJECT TITLE </h1>
 
